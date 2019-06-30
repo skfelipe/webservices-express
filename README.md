@@ -1,5 +1,5 @@
 ### aplicacion basica de webserices
-Reucerden ejecutar ```npm install``` para las librerias
+Recuerden ejecutar ```npm install``` para las librerias
 
 ### ejemplo
 
